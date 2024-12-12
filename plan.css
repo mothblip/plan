@@ -1,0 +1,184 @@
+.container { 
+	width: 1280px;
+	height: 1986px;
+	background: black;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	transform: translate(-25px, -25px);
+ }
+
+ .navbar {
+	width: 1280px;
+	height: 88px;
+	background: whitesmoke;
+	position: relative;
+	bottom: 15.5px;
+
+}
+
+.navtitle { 
+	color: black;
+	font-size: 40px;
+	position: absolute;
+	left: 32%;
+	top: 27%;
+}
+
+.ticket { 
+	background: url("../images/Ticket Star.png") no-repeat center;
+	margin-left: 40px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 120px;
+}
+
+.car { 
+	background: url("../images/Car.png") no-repeat center;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 580px;
+}
+
+.shop { 
+	background: url("../images/Shop.png") no-repeat center;	
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 1050px;
+}
+
+.menu { 
+	background: url("../images/Reserve.png") no-repeat center;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 1350px;
+}
+
+.ticketinfo { 
+	color: white;
+	position: absolute;
+	top: 140px;
+	font-size: 55px;
+	margin-left: 150px;
+}
+
+.time { 
+	color: #B4B4B4;
+	font-size: 45px;
+	position: absolute;
+	top: 220px;
+	margin-left: 160px;
+	margin-right: 160px;
+
+}
+
+
+.buywhere {
+	font-size: 35px;
+	color: #878787;
+	position: absolute;
+	top: 345px;
+	margin-left: 180px;
+}
+
+.free { 
+	font-weight: normal;
+	font-size: 35px;
+	color: #878787;
+	position: absolute;
+	top: 390px;
+	margin-left: 220px;
+	line-height: 40px;
+}
+
+.buyticket { 
+	color: white;
+	position: absolute;
+	top: 660px;
+	font-size: 30px;
+	left: 250px;
+}
+
+.address { 
+	color: white;
+	position: absolute;
+	top: 730px;
+	font-size: 55px;
+	margin-left: 160px;
+}
+
+.address1 { 
+	color: #878787;
+	font-size: 45px;
+	position: absolute;
+	top: 810px;
+	margin-left: 160px;
+	margin-right: 160px;
+}
+
+.accessibility { 
+	color: #878787;
+	font-weight: normal;
+	font-size: 35px;
+	margin-top: 30px;
+}
+
+.buttonsthatdontmatter1 { 
+	color: white;
+	position: absolute;
+	top: 1100px;
+	font-size: 35px;
+	margin-left: 200px;
+}
+
+.buttonsthatdontmatter2 {
+	color: white;
+	position: absolute;
+	top: 1100px;
+	font-size: 35px;
+	margin-left: 500px;
+}
+
+.buttonsthatdontmatter3 {
+	color: white;
+	position: absolute;
+	top: 1100px;
+	font-size: 35px;
+	margin-left: 800px;
+}
+
+.giftshop {
+	color: white;
+	position: absolute;
+	top: 1200px;
+	font-size: 55px;
+	margin-left: 160px;
+}
+
+.shopinfo { 
+	font-weight: normal;
+	font-size: 35px;
+	margin-top: 40px;
+	margin-right: 100px;
+	color: #878787;
+}
+
+.brasserie { 
+	color: white;
+	position: absolute;
+	top: 1500px;
+	font-size: 55px;
+	margin-left: 160px;
+ }
+
+.brasserieinfo { 
+	font-weight: normal;
+	font-size: 35px;
+	color: #878787;
+	margin-top: 40px;
+	margin-right: 100px;
+}
